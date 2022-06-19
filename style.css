@@ -1,0 +1,20 @@
+/* Header center aligned */
+#header-container > h1{
+    text-align:center;
+}
+
+/* Style for alarm-clock */
+#alarm-clock{
+    height: auto;
+    width: 400px;
+    margin:0px auto;
+    text-align:center;
+}
+
+/* Style for delete buttons */
+.delete_button{
+    background:#FE0001;
+}
+.delete_button:hover{
+    background:#cb0000;
+}
